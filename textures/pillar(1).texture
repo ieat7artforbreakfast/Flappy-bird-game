@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "pillar(1)",
+  "identifier": "texture:1199557-26e1543a-471d-48f0-b09d-e50d4bd8b65b",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "c99234eeadf73de0443b1bb9c709e3b1",
+  "assetLocator": "textures/pillar(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 800,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 250,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "c99234eeadf73de0443b1bb9c709e3b1",
+      "colorCount": 6,
+      "detectedAlphaChannel": "one_bit",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 2.3249471279190783,
+      "pixelsHigh": 800,
+      "pixelsWide": 250
+    }
+  ]
+}

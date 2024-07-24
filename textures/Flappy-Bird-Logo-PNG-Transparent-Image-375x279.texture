@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "Flappy-Bird-Logo-PNG-Transparent-Image-375x279",
+  "identifier": "texture:208156-5c542ecc-0189-42b4-8882-559d512a0488",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "85ce7439ea5f8d5c6ea7da929e3620c6",
+  "assetLocator": "textures/Flappy-Bird-Logo-PNG-Transparent-Image-375x279.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:209070-5c542ecc-0189-42b4-8882-559d512a0488",
+    "textureExportConfig:209186-5c542ecc-0189-42b4-8882-559d512a0488",
+    "textureExportConfig:209670-5c542ecc-0189-42b4-8882-559d512a0488"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 279,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 375,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "85ce7439ea5f8d5c6ea7da929e3620c6",
+      "colorCount": 7715,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 5.055850653657846,
+      "pixelsHigh": 279,
+      "pixelsWide": 375
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "pillar",
+  "identifier": "texture:208160-5c542ecc-0189-42b4-8882-559d512a0488",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "c99234eeadf73de0443b1bb9c709e3b1",
+  "assetLocator": "textures/pillar.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:209304-5c542ecc-0189-42b4-8882-559d512a0488",
+    "textureExportConfig:209424-5c542ecc-0189-42b4-8882-559d512a0488",
+    "textureExportConfig:209546-5c542ecc-0189-42b4-8882-559d512a0488"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 800,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 250,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "c99234eeadf73de0443b1bb9c709e3b1",
+      "colorCount": 6,
+      "detectedAlphaChannel": "one_bit",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 2.3249471279190783,
+      "pixelsHigh": 800,
+      "pixelsWide": 250
+    }
+  ]
+}
